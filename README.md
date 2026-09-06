@@ -19,9 +19,6 @@
 ---
 
 ### 🎬 Website Motion Preview
-<div align="center">
-  <img src="assets/preview.gif" alt="Grozik Media Motion Preview" width="100%" />
-</div>
 
 ---
 
